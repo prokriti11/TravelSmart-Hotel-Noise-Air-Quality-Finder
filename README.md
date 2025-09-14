@@ -60,7 +60,7 @@ The application uses the following key features from the hotel dataset:
 
 ### Prerequisites
 - Python 3.7 or higher
-- OpenWeather API key ([Get one free here](https://openweathermap.org/api))
+- OpenWeather API key 
 
 ### Local Installation
 
@@ -88,7 +88,6 @@ The application uses the following key features from the hotel dataset:
    ```
 
 5. **Access the app**
-   - Open your browser and navigate to `http://localhost:8501`
 
 ### Live Demo
 Experience the app without installation: [TravelSmart Live Demo](https://hotel-noise-app-streamlit.app)
